@@ -1,30 +1,46 @@
 package com.greglski.filereader.io;
 
+import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.NoSuchElementException;
+import java.util.stream.Collectors;
 
 public class FileFilterProcessor {
-    List<Person> users;
+    private List<Person> users;
 
     public FileFilterProcessor(List<Person> users) {
         this.users = users;
     }
 
-    public void showNumberOfUsers() {
-        System.out.println("Total number of users: " + users.size());
+    public int countNumberOfUsers() {
+        return users.size();
     }
 
-    public void filter() {
+    public List<Person> filter() {
+        List<Person> moreEldestUsers = new ArrayList<>();
         Comparator<Person> cmp = Comparator.comparing(Person::getBirthdate);
-        Person eldestUser = users.stream()
-                .filter(u -> !u.getPhoneNumber().equals("TBA"))
-                .min(cmp)
-                .get();
+        try {
+            Person eldestUser = users.stream()
+                    .filter(u -> !u.getPhoneNumber().equals("TBA"))
+                    .min(cmp)
+                    .get();
 
-        System.out.println("The eldest user with phone number is: " +
-                eldestUser.getFirstname() + " " +
-                eldestUser.getLastname() +
-                ", age: " + " " + eldestUser.getAge() +
-                ", phone number: " + eldestUser.getPhoneNumber());
+            moreEldestUsers = users.stream()
+                    .filter(u -> !u.getPhoneNumber().equals("TBA"))
+                    .filter(u -> u.getBirthdate().isEqual(eldestUser.getBirthdate()))
+//                    .filter(u -> !u.equals(eldestUser))
+                    .collect(Collectors.toList());
+
+//            moreEldestUsers.add(0, eldestUser);
+
+        } catch (NoSuchElementException e) {
+            System.out.println("Seems there are nobody with any phone");
+        }
+        return moreEldestUsers;
+    }
+
+    public List<Person> getUsers() {
+        return users;
     }
 }

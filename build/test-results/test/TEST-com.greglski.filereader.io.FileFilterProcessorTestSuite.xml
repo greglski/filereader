@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.greglski.filereader.io.FileFilterProcessorTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-03-18T11:00:09" hostname="T520-Lenovo" time="0.043">
+  <properties/>
+  <testcase name="testCountNumberOfUsers" classname="com.greglski.filereader.io.FileFilterProcessorTestSuite" time="0.021"/>
+  <testcase name="testFilterDifferentUsersSameAge" classname="com.greglski.filereader.io.FileFilterProcessorTestSuite" time="0.021"/>
+  <testcase name="testFilterWithDuplicate" classname="com.greglski.filereader.io.FileFilterProcessorTestSuite" time="0.0"/>
+  <testcase name="testFilter" classname="com.greglski.filereader.io.FileFilterProcessorTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -6,10 +6,9 @@ import java.util.List;
 
 public class ListOfPersons {
 
-    List<Person> personList = new ArrayList<>();
+    private List<Person> personList = new ArrayList<>();
 
     public ListOfPersons(List<String> listOfLines) {
-
         for (String line : listOfLines) {
             String[] word = line.split(",");
             if (word.length < 4) {
