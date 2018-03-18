@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53d6b35e-cf4d-4f5a-9ae8-e03643064aec" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/Printer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/PersonTestSuite.java" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/greglski/filereader/io/FileReader.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/greglski/filereader/io/FileReader.class" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/greglski/filereader/main/FileRiderMain.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/libs/filereader-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/build/libs/filereader-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/io/FileFilterProcessor.class" afterPath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/io/FileFilterProcessor.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/io/ListOfPersons.class" afterPath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/io/ListOfPersons.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/io/Person.class" afterPath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/io/Person.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/main/FileReaderMain.class" afterPath="$PROJECT_DIR$/out/production/classes/com/greglski/filereader/main/FileReaderMain.class" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/ListOfPersons.java" afterPath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/ListOfPersons.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/Person.java" afterPath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/Person.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java" afterPath="$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/FileFilterProcessorTestSuite.java" afterPath="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/FileFilterProcessorTestSuite.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/ListOfPersonsTestSuite.java" afterPath="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/ListOfPersonsTestSuite.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileReaderMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileReaderMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonTestSuite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PersonTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/PersonTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="450">
               <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -131,16 +109,16 @@
       <file leaf-file-name="FileFilterProcessor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="465">
+              <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
                 <element signature="e#348#349#0" expanded="true" />
                 <element signature="e#387#388#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#1345#1346#0" expanded="true" />
-                <element signature="e#1373#1374#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1263#1264#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -489,14 +467,14 @@
         <option value="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/FileReaderTestSuite.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/ListOfPersons.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/FileFilterProcessorTestSuite.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/ListOfPersonsTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/Person.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/PersonTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java" />
       </list>
     </option>
   </component>
@@ -627,11 +605,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="manifest&#9;PSI&#9;JAVA://java.util.jar.Manifest" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -645,12 +626,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PersonTestSuite.testGetAge">
+  <component name="RunManager" selected="Application.FileReaderMain">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="FileReaderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.greglski.filereader.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.greglski.filereader.main.FileReaderMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="C:\input\input.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="filereader_main" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -665,31 +665,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="FileFilterProcessorTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.greglski.filereader.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="filereader_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.greglski.filereader.io" />
-      <option name="MAIN_CLASS_NAME" value="com.greglski.filereader.io.FileFilterProcessorTestSuite" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="FileFilterProcessorTestSuite.testFilterDifferentUsersSameAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -852,7 +827,7 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FileFilterProcessorTestSuite" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FileReaderMain" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.FileFilterProcessorTestSuite.testFilterDifferentUsersSameAge" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.ListOfPersonsTestSuite.testGetPersonList" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.PersonTestSuite.testPersonConstructor" />
@@ -860,11 +835,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PersonTestSuite.testGetAge" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonTestSuite.testPersonConstructor" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ListOfPersonsTestSuite.testGetPersonList" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FileFilterProcessorTestSuite.testFilterDifferentUsersSameAge" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FileFilterProcessorTestSuite" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FileReaderMain" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PersonTestSuite.testGetAge" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonTestSuite.testPersonConstructor" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ListOfPersonsTestSuite.testGetPersonList" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FileFilterProcessorTestSuite.testFilterDifferentUsersSameAge" />
       </list>
     </recent_temporary>
   </component>
@@ -882,14 +857,11 @@
       <option name="presentableId" value="Default" />
       <updated>1521144857361</updated>
       <workItem from="1521144864011" duration="31085000" />
-      <workItem from="1521208681637" duration="36540000" />
+      <workItem from="1521208681637" duration="39294000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileFilterProcessorTestSuite - 2018.03.18 at 09h 21m 05s.xml">
-      <configuration name="FileFilterProcessorTestSuite" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FileFilterProcessorTestSuite - 2018.03.18 at 09h 23m 35s.xml">
       <configuration name="FileFilterProcessorTestSuite" configurationId="JUnit" />
     </history-entry>
@@ -914,16 +886,18 @@
     <history-entry file="PersonTestSuite_testGetAge - 2018.03.18 at 11h 56m 30s.xml">
       <configuration name="PersonTestSuite.testGetAge" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PersonTestSuite_testGetAge - 2018.03.18 at 11h 58m 18s.xml">
+      <configuration name="PersonTestSuite.testGetAge" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="PersonTestSuite_testPersonConstructor - 2018.03.18 at 11h 54m 06s.xml">
       <configuration name="PersonTestSuite.testPersonConstructor" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67625000" />
+    <option name="totallyTimeSpent" value="70379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -964,7 +938,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1049,8 +1023,8 @@
             <element signature="e#348#349#0" expanded="true" />
             <element signature="e#387#388#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1263#1264#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1110,24 +1084,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/FileFilterProcessorTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="112">
+          <caret line="66" column="35" lean-forward="false" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/ListOfPersons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1143,36 +1105,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/PersonTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/FileFilterProcessorTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="66" column="35" lean-forward="false" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        <state relative-caret-position="450">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1185,6 +1121,18 @@
           <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/ListOfPersons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1209,10 +1157,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/greglski/filereader/io/PersonTestSuite.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileFilterProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="465">
+          <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1263#1264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/greglski/filereader/main/FileReaderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1222,6 +1196,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>filereader</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>

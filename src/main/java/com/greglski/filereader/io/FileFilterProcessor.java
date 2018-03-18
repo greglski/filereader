@@ -29,11 +29,7 @@ public class FileFilterProcessor {
             moreEldestUsers = users.stream()
                     .filter(u -> !u.getPhoneNumber().equals("TBA"))
                     .filter(u -> u.getBirthdate().isEqual(eldestUser.getBirthdate()))
-//                    .filter(u -> !u.equals(eldestUser))
                     .collect(Collectors.toList());
-
-//            moreEldestUsers.add(0, eldestUser);
-
         } catch (NoSuchElementException e) {
             System.out.println("Seems there are nobody with any phone");
         }
